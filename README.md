@@ -13,8 +13,6 @@
 
 - 👯 I’m looking to collaborate on [Artificial Intelligence](https://openai.com/)
 
-- 🤝 I’m looking for help with **Salauddin Elias Khan**
-
 - 👨‍💻 All of my projects are available at [fairuzfaiyaz/fairuzfaiyaz](fairuzfaiyaz/fairuzfaiyaz)
 
 - 💬 Ask me about **Software Development**
