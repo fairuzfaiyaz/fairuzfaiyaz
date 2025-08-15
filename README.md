@@ -1,24 +1,102 @@
-# 💫 About Me:
-# 👋 Hi, I'm Fairuz Faiyaz <br><br>🎓 **Computer Science Undergraduate**  <br>🏛️ *American International University - Bangladesh (AIUB)*  <br>🚀 **Aspiring Software Engineer** | **Problem Solver** | **Tech Enthusiast**<br><br>---<br><br>### 💻 Technical Arsenal:<br>- **Languages**: `C++` | `Java` | `C#` | `Python` | `JavaScript`<br>- **Web Development**: `HTML5` | `CSS3` | `Bootstrap` <br>- **Core Concepts**: `Data Structures` | `Algorithms` | `OOP` | `DBMS`<br>- **Tools**: `Git` | `VS Code` | `IntelliJ IDEA` | `Unity`<br>- **Currently Exploring**: `React` | `Node.js` | `Cloud Computing`<br><br>---<br><br>### 🏆 Competitive Programming:<br>📈 Regular participant in programming contests  <br>💡 Solved **300+** problems across platforms like *Codeforces* and *LeetCode*  <br>🥇 2023 HACKATHON<br><br>---<br><br>### 🛠️ Recent Projects:<br>1. **Visa Queue Management System** (C++)  <br>   - Implemented queue data structures for embassy consulate operations<br>2. **E-Commerce Inventory System** (Java/Swing)  <br>   - Developed GUI application with CRUD operations<br>3. **2D Platformer Game** (Unity/C#)  <br>   - Created complete game mechanics and level design<br><br>---<br><br>### 📚 Academic Journey:<br>- **GPA**: 3.*/4.0 <br>- **Relevant Coursework**:  <br>  ▪️ Advanced Data Structures & Algorithms  <br>  ▪️ Database Systems  <br>  ▪️ Software Engineering  <br>  ▪️ Operating Systems<br><br>---<br><br>### 🌱 Currently Upskilling:<br>- Mastering **System Design** concepts<br>- Learning **AWS Cloud Practitioner** fundamentals<br>- Exploring **Machine Learning** basics with Python<br><br>---<br><br>### 
+# 💫 Fairuz Faiyaz
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/fairuzfaiyaz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/faiyaz06.12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fairuzfaiyaz) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Big-Juggernaut5066) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/fairuzfaiyaz06) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/FairuzFaiyaz) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@7paingaming209) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fairuzfaiyaz2002@icloud.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![CrateDB](https://img.shields.io/badge/CrateDB-009DC7?style=for-the-badge&logo=CrateDB&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=fairuzfaiyaz&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=fairuzfaiyaz&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fairuzfaiyaz&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=fairuzfaiyaz&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
+👋 Hi there! I'm **Fairuz Faiyaz** – a passionate **Computer Science undergraduate** from **AIUB**, aspiring **Software Engineer** & **Problem Solver**.  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=fairuzfaiyaz&icon=2&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧰 Technical Arsenal
+
+### 💻 Programming Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+### 🌐 Web & Frameworks
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+---
+
+## 🏆 Competitive Programming
+
+- 📈 Regular participant in programming contests  
+- 💡 Solved **300+** problems on *Codeforces* and *LeetCode*  
+- 🥇 2023 Hackathon participant  
+
+---
+
+## 🛠️ Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| **Visa Queue Management System** | Embassy consulate queue simulation | C++ |
+| **E-Commerce Inventory System** | GUI CRUD app | Java/Swing |
+| **2D Platformer Game** | Game mechanics & level design | Unity/C# |
+
+---
+
+## 📚 Academic Journey
+
+- **GPA:** 3.* / 4.0  
+- **Relevant Coursework:** Advanced Data Structures & Algorithms, Database Systems, Software Engineering, Operating Systems  
+
+---
+
+## 🌱 Currently Learning
+
+- Mastering **System Design**  
+- **AWS Cloud Practitioner** fundamentals  
+- Exploring **Machine Learning** basics with Python  
+
+---
+
+## 🌐 Connect with Me
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/fairuzfaiyaz)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/faiyaz06.12)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fairuzfaiyaz)  
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/Big-Juggernaut5066)  
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@7paingaming209)  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fairuzfaiyaz&theme=radical&show_icons=true" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fairuzfaiyaz&theme=radical" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fairuzfaiyaz&theme=radical&layout=compact" width="48%">
+  <img src="https://github-contributor-stats.vercel.app/api?username=fairuzfaiyaz&limit=5&theme=radical&combine_all_yearly_contributions=true" width="48%">
+</p>
+
+---
+
+## 📅 GitHub Activity Calendar
+![GitHub Calendar](https://github-readme-calendar.vercel.app/api?username=fairuzfaiyaz&theme=radical&hide_border=true)
+
+---
+
+### ✍️ Random Dev Quote
+> ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+### 🌟 Visitor Counter
+[![Visitor Count](https://profile-counter.glitch.me/fairuzfaiyaz/count.svg)](https://profile-counter.glitch.me/fairuzfaiyaz)
+
+---
+
