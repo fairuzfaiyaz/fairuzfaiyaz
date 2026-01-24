@@ -1,102 +1,139 @@
-# 💫 Fairuz Faiyaz
+<h1 align="center">Fairuz Faiyaz</h1>
 
-👋 Hi there! I'm **Fairuz Faiyaz** – a passionate **Computer Science undergraduate** from **AIUB**, aspiring **Software Engineer** & **Problem Solver**.  
+<p align="center">
+  <b>Computer Science Undergraduate • Software Engineering Enthusiast</b><br/>
+  American International University–Bangladesh (AIUB)
+</p>
 
----
-
-## 🧰 Technical Arsenal
-
-### 💻 Programming Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-### 🌐 Web & Frameworks
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-Primary-blue?style=for-the-badge&logo=c%2B%2B" />
+  <img src="https://img.shields.io/badge/Data_Structures-Strong-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/System_Simulation-Focused-informational?style=for-the-badge" />
+</p>
 
 ---
 
-## 🏆 Competitive Programming
+## About Me
 
-- 📈 Regular participant in programming contests  
-- 💡 Solved **300+** problems on *Codeforces* and *LeetCode*  
-- 🥇 2023 Hackathon participant  
+I am a **Computer Science undergraduate** with a strong focus on **core programming**, **data structures**, and **system simulation–based problem solving**.  
+I enjoy designing logical systems, writing clean **C++** code, and modeling real-world processes through software.
+
+- B.Sc in Computer Science & Engineering (Ongoing)
+- Strong foundation in Data Structures & Algorithms
+- Experienced in console-based system simulations
+- Career goal: **Software Engineer / AI-oriented roles**
 
 ---
 
-## 🛠️ Projects
+## Technical Skills
+
+### Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</p>
+
+### Databases
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
+
+- SQL (CRUD, joins, normalization)
+- Database design (1NF, 2NF, 3NF)
+
+### Core CS Concepts
+- Data Structures (Linked List, Queue, Stack, Arrays)
+- Object Oriented Programming (OOP)
+- File Handling
+- System Simulation
+- Digital Logic & Circuits
+
+### Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/SSMS-003B57?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
+</p>
+
+---
+
+## Projects
 
 | Project | Description | Tech |
-|---------|-------------|------|
-| **Visa Queue Management System** | Embassy consulate queue simulation | C++ |
-| **E-Commerce Inventory System** | GUI CRUD app | Java/Swing |
-| **2D Platformer Game** | Game mechanics & level design | Unity/C# |
+|------|-------------|------|
+| **TurfSync – Turf Scheduling System** | Sports turf booking and scheduling system with structured data handling. | C++, OOP |
+| **University Information & Performance Tracking System** | Academic data and performance tracking using file-based storage. | C++, File I/O |
+| **Embassy–Consulate Line System** | Visa processing queue simulation modeling real-world service flow. | C++, Queue |
+| **Hospital Resource Management Simulation** | Simulation of hospital resources including patients and staff. | C++, OOP |
+| **Airport Management System** | Airport operation simulation using structured logic and queues. | C++ |
+| **Linked List Implementations in C++** | Implementation of singly, doubly, and circular linked lists. | C++, DSA |
+
+**Repositories**
+- https://github.com/fairuzfaiyaz/TurfSyncTurfSchedulingSportsSystem  
+- https://github.com/fairuzfaiyaz/UNIVERSITY-INFORMATION-PERFORMANCE-TRACKING-SYSTEM  
+- https://github.com/fairuzfaiyaz/Embassy-Consulate-Line-System  
+- https://github.com/fairuzfaiyaz/Hospital-Resource-Management-Simulation  
+- https://github.com/fairuzfaiyaz/airport-management-system  
+- https://github.com/fairuzfaiyaz/Linked-List-Implementations-in-C_PlusPlus  
 
 ---
 
-## 📚 Academic Journey
+## Competitive Programming
 
-- **GPA:** 3.* / 4.0  
-- **Relevant Coursework:** Advanced Data Structures & Algorithms, Database Systems, Software Engineering, Operating Systems  
-
----
-
-## 🌱 Currently Learning
-
-- Mastering **System Design**  
-- **AWS Cloud Practitioner** fundamentals  
-- Exploring **Machine Learning** basics with Python  
+- Solved **~100 problems** on **LeetCode**
+- Focused practice on DSA fundamentals
+- Emphasis on correctness, edge cases, and time complexity
 
 ---
 
-## 🌐 Connect with Me
+## Academic Overview
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/fairuzfaiyaz)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/faiyaz06.12)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fairuzfaiyaz)  
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/Big-Juggernaut5066)  
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@7paingaming209)  
+**Cumulative GPA:** **3.38**
+
+**Academic Strengths**
+- Data Structures — A+ (Lecture & Lab)
+- Digital Logic & Circuits — A+ (Lecture & Lab)
+- Object Oriented Programming (Java)
+- Database Systems
+- Algorithms (Ongoing)
 
 ---
 
-## 📊 GitHub Stats
+## Currently Learning
+
+- Advanced Algorithms
+- Object Oriented Analysis & Design
+- Artificial Intelligence & Expert Systems
+- Software Engineering
+
+---
+
+## Profiles & Contact
+
+<p>
+  <a href="https://linkedin.com/in/fairuzfaiyaz">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/fairuzfaiyaz">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fairuzfaiyaz&theme=radical&show_icons=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fairuzfaiyaz&theme=radical" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=fairuzfaiyaz&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fairuzfaiyaz&theme=radical" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fairuzfaiyaz&theme=radical&layout=compact" width="48%">
-  <img src="https://github-contributor-stats.vercel.app/api?username=fairuzfaiyaz&limit=5&theme=radical&combine_all_yearly_contributions=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fairuzfaiyaz&layout=compact&theme=radical" width="48%" />
 </p>
 
 ---
 
-## 📅 GitHub Activity Calendar
-![GitHub Calendar](https://github-readme-calendar.vercel.app/api?username=fairuzfaiyaz&theme=radical&hide_border=true)
-
----
-
-### ✍️ Random Dev Quote
-> ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-### 🌟 Visitor Counter
-[![Visitor Count](https://profile-counter.glitch.me/fairuzfaiyaz/count.svg)](https://profile-counter.glitch.me/fairuzfaiyaz)
-
----
-
+<p align="center"><i>Focused on fundamentals. Built with logic. Improving every day.</i></p>
