@@ -1,139 +1,126 @@
-<h1 align="center">Fairuz Faiyaz</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25,30&height=220&section=header&text=Fairuz%20Faiyaz&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=System%20Simulation%20%E2%80%A2%20C%2B%2B%20%E2%80%A2%20Algorithm%20Design&descAlignY=60&descSize=20" width="100%"/>
+</div>
 
-<p align="center">
-  <b>Computer Science Undergraduate • Software Engineering Enthusiast</b><br/>
-  American International University–Bangladesh (AIUB)
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-Primary-blue?style=for-the-badge&logo=c%2B%2B" />
-  <img src="https://img.shields.io/badge/Data_Structures-Strong-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/System_Simulation-Focused-informational?style=for-the-badge" />
-</p>
-
----
-
-## About Me
-
-I am a **Computer Science undergraduate** with a strong focus on **core programming**, **data structures**, and **system simulation–based problem solving**.  
-I enjoy designing logical systems, writing clean **C++** code, and modeling real-world processes through software.
-
-- B.Sc in Computer Science & Engineering (Ongoing)
-- Strong foundation in Data Structures & Algorithms
-- Experienced in console-based system simulations
-- Career goal: **Software Engineer / AI-oriented roles**
-
----
-
-## Technical Skills
-
-### Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</p>
-
-### Databases
-<p>
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-</p>
-
-- SQL (CRUD, joins, normalization)
-- Database design (1NF, 2NF, 3NF)
-
-### Core CS Concepts
-- Data Structures (Linked List, Queue, Stack, Arrays)
-- Object Oriented Programming (OOP)
-- File Handling
-- System Simulation
-- Digital Logic & Circuits
-
-### Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/SSMS-003B57?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
-</p>
-
----
-
-## Projects
-
-| Project | Description | Tech |
-|------|-------------|------|
-| **TurfSync – Turf Scheduling System** | Sports turf booking and scheduling system with structured data handling. | C++, OOP |
-| **University Information & Performance Tracking System** | Academic data and performance tracking using file-based storage. | C++, File I/O |
-| **Embassy–Consulate Line System** | Visa processing queue simulation modeling real-world service flow. | C++, Queue |
-| **Hospital Resource Management Simulation** | Simulation of hospital resources including patients and staff. | C++, OOP |
-| **Airport Management System** | Airport operation simulation using structured logic and queues. | C++ |
-| **Linked List Implementations in C++** | Implementation of singly, doubly, and circular linked lists. | C++, DSA |
-
-**Repositories**
-- https://github.com/fairuzfaiyaz/TurfSyncTurfSchedulingSportsSystem  
-- https://github.com/fairuzfaiyaz/UNIVERSITY-INFORMATION-PERFORMANCE-TRACKING-SYSTEM  
-- https://github.com/fairuzfaiyaz/Embassy-Consulate-Line-System  
-- https://github.com/fairuzfaiyaz/Hospital-Resource-Management-Simulation  
-- https://github.com/fairuzfaiyaz/airport-management-system  
-- https://github.com/fairuzfaiyaz/Linked-List-Implementations-in-C_PlusPlus  
-
----
-
-## Competitive Programming
-
-- Solved **~100 problems** on **LeetCode**
-- Focused practice on DSA fundamentals
-- Emphasis on correctness, edge cases, and time complexity
-
----
-
-## Academic Overview
-
-**Cumulative GPA:** **3.38**
-
-**Academic Strengths**
-- Data Structures — A+ (Lecture & Lab)
-- Digital Logic & Circuits — A+ (Lecture & Lab)
-- Object Oriented Programming (Java)
-- Database Systems
-- Algorithms (Ongoing)
-
----
-
-## Currently Learning
-
-- Advanced Algorithms
-- Object Oriented Analysis & Design
-- Artificial Intelligence & Expert Systems
-- Software Engineering
-
----
-
-## Profiles & Contact
-
-<p>
-  <a href="https://linkedin.com/in/fairuzfaiyaz">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=33CCFF&center=true&vCenter=true&width=600&lines=Modeling+Real-World+Systems+in+C%2B%2B;Optimizing+Data+Structures+for+Performance;Simulating+Complex+Logic;Architecting+Scalable+Solutions" alt="Typing SVG" />
   </a>
-  <a href="https://github.com/fairuzfaiyaz">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+</div>
 
----
+<br/>
 
-## GitHub Stats
+<div align="center">
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <h2>👋 System Architect in the Making</h2>
+      <p>I don't just write code; I <b>model reality</b>.</p>
+      <p>As a CS Undergraduate at <b>AIUB</b>, I specialize in the "heavy lifting" of computing: <b>Core C++, Memory Management, and Simulation Logic.</b></p>
+      <p>While others build UIs, I build the <b>engines</b> that make systems run.</p>
+      <br/>
+      <a href="https://linkedin.com/in/fairuzfaiyaz"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+      <a href="https://github.com/fairuzfaiyaz"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/></a>
+    </td>
+    <td width="45%" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmJyZ3pueHlxamZ3Ym95bmZ4ZHp4ZHp4ZHp4ZHp4ZHp4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="Coding Simulation"/>
+    </td>
+  </tr>
+</table>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fairuzfaiyaz&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fairuzfaiyaz&theme=radical" width="48%" />
-</p>
+<br/><br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fairuzfaiyaz&layout=compact&theme=radical" width="48%" />
-</p>
+<h2 align="center">⚡ Technical Arsenal</h2>
 
----
+<div align="center">
 
-<p align="center"><i>Focused on fundamentals. Built with logic. Improving every day.</i></p>
+| **Core Power** | **Architecture & Data** | **Tools & Environment** |
+|:---:|:---:|:---:|
+| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![DSA](https://img.shields.io/badge/Data_Structures-Critical-red?style=for-the-badge) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
+| ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | ![OOP](https://img.shields.io/badge/OOP-Principles-orange?style=for-the-badge) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) | ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) |
+
+</div>
+
+<br/>
+
+<h2 align="center">💻 Simulation & Logic Projects</h2>
+
+<table align="center">
+  <tr> 
+    <td width="50%">
+      <h3 align="center">🏟️ TurfSync</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/C++-OOP-blue" /> 
+        <img src="https://img.shields.io/badge/Focus-Scheduling_Logic-success" />
+      </div>
+      <p align="center">
+        A complex <b>sports scheduling engine</b> handling slot booking and conflict resolution.
+        <br/>
+        <a href="https://github.com/fairuzfaiyaz/TurfSyncTurfSchedulingSportsSystem"><b>View Repository</b></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🛂 Embassy Line Sim</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/C++-Queue_Theory-blue" />
+        <img src="https://img.shields.io/badge/Focus-System_Bottlenecks-critical" />
+      </div>
+      <p align="center">
+        A <b>Queue-based simulation</b> modeling visa processing flow to identify service delays.
+        <br/>
+        <a href="https://github.com/fairuzfaiyaz/Embassy-Consulate-Line-System"><b>View Repository</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏥 Hospital Resource Sim</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/C++-Priority_Queue-blue" />
+        <img src="https://img.shields.io/badge/Focus-Triage_Logic-blueviolet" />
+      </div>
+      <p align="center">
+        Healthcare resource allocation system managing doctors and emergency triage logic.
+        <br/>
+        <a href="https://github.com/fairuzfaiyaz/Hospital-Resource-Management-Simulation"><b>View Repository</b></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎓 UniTracker</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/C++-File_Handling-blue" />
+        <img src="https://img.shields.io/badge/Focus-Data_Persistence-yellow" />
+      </div>
+      <p align="center">
+        Academic performance tracker using <b>custom file I/O</b> for long-term data storage.
+        <br/>
+        <a href="https://github.com/fairuzfaiyaz/UNIVERSITY-INFORMATION-PERFORMANCE-TRACKING-SYSTEM"><b>View Repository</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<h2 align="center">📊 The Data</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fairuzfaiyaz&theme=react-dark&area=true&hide_border=true&bg_color=0D1117" width="100%" />
+  
+  <br/><br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=fairuzfaiyaz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fairuzfaiyaz&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  
+  <br/><br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fairuzfaiyaz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="60%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25,30&height=100&section=footer"/>
+</div>
