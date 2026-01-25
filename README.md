@@ -30,19 +30,12 @@
 </div>
 
 <br/><br/>
-
-<h2 align="center">⚡ Technical Arsenal</h2>
-
-<div align="center">
-
-| **Core Power** | **Architecture & Data** | **Tools & Environment** |
-|:---:|:---:|:---:|
-| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![DSA](https://img.shields.io/badge/Data_Structures-Critical-red?style=for-the-badge) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
-| ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | ![OOP](https://img.shields.io/badge/OOP-Principles-orange?style=for-the-badge) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) | ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) |
-
-</div>
-
+<h2 align="center">🛠️ Technical Arsenal</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,cs,java,mysql,pr,git,github,vscode,visualstudio,md,windows,powershell&perline=6" />
+  </a>
+</p>
 <br/>
 
 <h2 align="center">💻 Simulation & Logic Projects</h2>
@@ -112,7 +105,6 @@
   <br/><br/>
   
   <img src="https://github-readme-stats.vercel.app/api?username=fairuzfaiyaz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fairuzfaiyaz&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
   
   <br/><br/>
   
