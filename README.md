@@ -148,8 +148,7 @@
   
   <br/><br/>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=fairuzfaiyaz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fairuzfaiyaz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+ 
 </div>
 
 <br/>
