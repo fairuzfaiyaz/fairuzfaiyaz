@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25,30&height=220&section=header&text=Fairuz%20Faiyaz&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=System%20Simulation%20%E2%80%A2%20C%2B%2B%20%E2%80%A2%20Algorithm%20Design&descAlignY=60&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=220&section=header&text=Fairuz%20Faiyaz&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=System%20Simulation%20•%20C%2B%2B%20•%20Algorithm%20Design&descAlignY=60&descSize=20" width="100%"/>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=33CCFF&center=true&vCenter=true&width=600&lines=Modeling+Real-World+Systems+in+C%2B%2B;Optimizing+Data+Structures+for+Performance;Simulating+Complex+Logic;Architecting+Scalable+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=5CE1E6&center=true&vCenter=true&width=600&lines=Modeling+Real-World+Systems;Optimizing+Low-Level+Performance;Simulating+Complex+Logic;Architecting+Scalable+Engines" alt="Typing SVG" />
   </a>
 </div>
 
@@ -23,20 +23,45 @@
       <a href="https://github.com/fairuzfaiyaz"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/></a>
     </td>
     <td width="45%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmJyZ3pueHlxamZ3Ym95bmZ4ZHp4ZHp4ZHp4ZHp4ZHp4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="Coding Simulation"/>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmJyZ3pueHlxamZ3Ym95bmZ4ZHp4ZHp4ZHp4ZHp4ZHp4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" style="border-radius: 10px;"/>
     </td>
   </tr>
 </table>
 </div>
 
-<br/><br/>
+<br/>
+
+---
+
+## 📈 Researching & Learning
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=A9FFEB&center=true&vCenter=true&width=600&lines=Currently+Diving+Into%3A+Multi-threading+in+C%2B%2B;Next+Objective%3A+Discrete+Event+Simulation+(DES);Exploring%3A+High-Performance+Computing" alt="Learning SVG" />
+</div>
+
+<table align="center">
+  <tr>
+    <td width="33%" align="center">
+      <b>⚡ Concurrency</b><br/>Mastering <code>std::thread</code> & Mutexes
+    </td>
+    <td width="33%" align="center">
+      <b>⏳ DES</b><br/>Time-stamped Event Sequences
+    </td>
+    <td width="33%" align="center">
+      <b>🧠 Memory</b><br/>Heap/Stack Optimization
+    </td>
+  </tr>
+</table>
+
+---
+
 <h2 align="center">🛠️ Technical Arsenal</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,cs,java,mysql,pr,git,github,vscode,visualstudio,md,windows,powershell&perline=6" />
   </a>
 </p>
-<br/>
+
+---
 
 <h2 align="center">💻 Simulation & Logic Projects</h2>
 
@@ -45,7 +70,7 @@
     <td width="50%">
       <h3 align="center">🏟️ TurfSync</h3>
       <div align="center">
-        <img src="https://img.shields.io/badge/C++-OOP-blue" /> 
+        <img src="https://img.shields.io/badge/C%2B%2B-Architecture-00599C" /> 
         <img src="https://img.shields.io/badge/Focus-Scheduling_Logic-success" />
       </div>
       <p align="center">
@@ -57,7 +82,7 @@
     <td width="50%">
       <h3 align="center">🛂 Embassy Line Sim</h3>
       <div align="center">
-        <img src="https://img.shields.io/badge/C++-Queue_Theory-blue" />
+        <img src="https://img.shields.io/badge/C%2B%2B-Sim_Theory-00599C" />
         <img src="https://img.shields.io/badge/Focus-System_Bottlenecks-critical" />
       </div>
       <p align="center">
@@ -71,8 +96,8 @@
     <td width="50%">
       <h3 align="center">🏥 Hospital Resource Sim</h3>
       <div align="center">
-        <img src="https://img.shields.io/badge/C++-Priority_Queue-blue" />
-        <img src="https://img.shields.io/badge/Focus-Triage_Logic-blueviolet" />
+        <img src="https://img.shields.io/badge/C%2B%2B-Triage-00599C" />
+        <img src="https://img.shields.io/badge/Focus-Priority_Logic-blueviolet" />
       </div>
       <p align="center">
         Healthcare resource allocation system managing doctors and emergency triage logic.
@@ -83,7 +108,7 @@
     <td width="50%">
       <h3 align="center">🎓 UniTracker</h3>
       <div align="center">
-        <img src="https://img.shields.io/badge/C++-File_Handling-blue" />
+        <img src="https://img.shields.io/badge/C%2B%2B-I/O-00599C" />
         <img src="https://img.shields.io/badge/Focus-Data_Persistence-yellow" />
       </div>
       <p align="center">
@@ -95,24 +120,40 @@
   </tr>
 </table>
 
-<br/>
+---
 
-<h2 align="center">📊 The Data</h2>
+<h2 align="center">🎓 Academic Journey</h2>
+
+<table align="center">
+  <tr>
+    <td><b>Institution</b></td>
+    <td><b>Degree</b></td>
+    <td><b>Status</b></td>
+  </tr>
+  <tr>
+    <td><b>American International University-Bangladesh</b></td>
+    <td>B.Sc. in Computer Science & Engineering</td>
+    <td><i>In Progress</i></td>
+  </tr>
+</table>
+
+> **Core Focus:** Transforming abstract mathematical models into optimized, high-performance C++ code.
+
+---
+
+<h2 align="center">📊 System Metrics</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fairuzfaiyaz&theme=react-dark&area=true&hide_border=true&bg_color=0D1117" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fairuzfaiyaz&theme=tokyonight&area=true&hide_border=true&bg_color=0D1117" width="100%" />
   
   <br/><br/>
   
   <img src="https://github-readme-stats.vercel.app/api?username=fairuzfaiyaz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  
-  <br/><br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fairuzfaiyaz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fairuzfaiyaz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25,30&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=100&section=footer"/>
 </div>
