@@ -10,7 +10,7 @@
 
 <!-- ============ HERO ============ -->
 <div align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Fairuz Faiyaz — system simulation engineer. Core C++, memory management, discrete-event simulation, concurrency." />
+  <img src="./hero.svg" width="100%" alt="Fairuz Faiyaz — system simulation engineer. Core C++, memory management, discrete-event simulation, concurrency." />
 </div>
 
 <br/>
@@ -28,7 +28,7 @@
 <h2 align="center">🛠️ Technical Arsenal</h2>
 
 <div align="center">
-  <img src="./assets/arsenal.svg" width="100%" alt="Languages: C++, C#, Java, MySQL. Tools & Workflow: Git, GitHub, VS Code, Visual Studio. Platforms & Docs: Windows, PowerShell, Markdown." />
+  <img src="./arsenal.svg" width="100%" alt="Languages: C++, C#, Java, MySQL. Tools & Workflow: Git, GitHub, VS Code, Visual Studio. Platforms & Docs: Windows, PowerShell, Markdown." />
 </div>
 
 <p align="center">
@@ -43,7 +43,7 @@
 <h2 align="center">💻 Simulation & Logic Projects</h2>
 
 <div align="center">
-  <img src="./assets/systems.svg" width="100%" alt="Four simulation systems: TurfSync scheduling engine, Embassy Line Sim queueing simulation, Hospital Resource Sim priority triage, UniTracker data persistence." />
+  <img src="./systems.svg" width="100%" alt="Four simulation systems: TurfSync scheduling engine, Embassy Line Sim queueing simulation, Hospital Resource Sim priority triage, UniTracker data persistence." />
 </div>
 
 <p align="center">
@@ -59,7 +59,7 @@
 <h2 align="center">🎓 Academic Journey</h2>
 
 <div align="center">
-  <img src="./assets/academic.svg" width="100%" alt="American International University-Bangladesh, B.Sc. in Computer Science and Engineering, in progress. Curriculum timeline currently at Systems & Simulation, next stop a discrete-event simulation framework." />
+  <img src="./academic.svg" width="100%" alt="American International University-Bangladesh, B.Sc. in Computer Science and Engineering, in progress. Curriculum timeline currently at Systems & Simulation, next stop a discrete-event simulation framework." />
 </div>
 
 ---
@@ -75,7 +75,7 @@
 
 <!-- ============ CLOSING ============ -->
 <div align="center">
-  <img src="./assets/closing.svg" width="100%" alt="Always building. Always simulating. Find Fairuz Faiyaz on GitHub and LinkedIn." />
+  <img src="./closing.svg" width="100%" alt="Always building. Always simulating. Find Fairuz Faiyaz on GitHub and LinkedIn." />
 </div>
 
 <div align="center">
