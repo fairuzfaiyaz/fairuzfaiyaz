@@ -3,16 +3,14 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=5CE1E6&center=true&vCenter=true&width=600&lines=Modeling+Real-World+Systems;Optimizing+Low-Level+Performance;Simulating+Complex+Logic;Architecting+Scalable+Engines" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=5CE1E6&center=true&vCenter=true&width=600&lines=Modeling+Real-World+Systems;Optimizing+Low-Level+Performance;Simulating+Complex+Logic;Architecting+Scalable+Engines" alt="Typing SVG" />
 </div>
 
 <br/>
 
-<!-- ============ ANIMATED HERO BANNER ============ -->
+<!-- ============ HERO ============ -->
 <div align="center">
-  <img src="./hero.svg" width="100%" alt="Fairuz Faiyaz — system simulation engineer. Core C++, memory management, discrete-event simulation, concurrency." />
+  <img src="./assets/hero.svg" width="100%" alt="Fairuz Faiyaz — system simulation engineer. Core C++, memory management, discrete-event simulation, concurrency." />
 </div>
 
 <br/>
@@ -26,7 +24,13 @@
 
 ---
 
+<!-- ============ TECHNICAL ARSENAL ============ -->
 <h2 align="center">🛠️ Technical Arsenal</h2>
+
+<div align="center">
+  <img src="./assets/arsenal.svg" width="100%" alt="Languages: C++, C#, Java, MySQL. Tools & Workflow: Git, GitHub, VS Code, Visual Studio. Platforms & Docs: Windows, PowerShell, Markdown." />
+</div>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,cs,java,mysql,pr,git,github,vscode,visualstudio,md,windows,powershell&perline=6" />
@@ -35,11 +39,11 @@
 
 ---
 
-<!-- ============ ANIMATED PROJECT SHOWCASE ============ -->
+<!-- ============ PROJECTS ============ -->
 <h2 align="center">💻 Simulation & Logic Projects</h2>
 
 <div align="center">
-  <img src="./systems.svg" width="100%" alt="Four simulation systems: TurfSync scheduling engine, Embassy Line Sim queueing simulation, Hospital Resource Sim priority triage, UniTracker data persistence." />
+  <img src="./assets/systems.svg" width="100%" alt="Four simulation systems: TurfSync scheduling engine, Embassy Line Sim queueing simulation, Hospital Resource Sim priority triage, UniTracker data persistence." />
 </div>
 
 <p align="center">
@@ -51,25 +55,16 @@
 
 ---
 
+<!-- ============ ACADEMIC JOURNEY ============ -->
 <h2 align="center">🎓 Academic Journey</h2>
 
-<table align="center">
-  <tr>
-    <td><b>Institution</b></td>
-    <td><b>Degree</b></td>
-    <td><b>Status</b></td>
-  </tr>
-  <tr>
-    <td><b>American International University-Bangladesh</b></td>
-    <td>B.Sc. in Computer Science &amp; Engineering</td>
-    <td><i>In Progress</i></td>
-  </tr>
-</table>
-
-> **Core Focus:** Transforming abstract mathematical models into optimized, high-performance C++ code.
+<div align="center">
+  <img src="./assets/academic.svg" width="100%" alt="American International University-Bangladesh, B.Sc. in Computer Science and Engineering, in progress. Curriculum timeline currently at Systems & Simulation, next stop a discrete-event simulation framework." />
+</div>
 
 ---
 
+<!-- ============ METRICS (live data) ============ -->
 <h2 align="center">📊 System Metrics</h2>
 
 <div align="center">
@@ -77,6 +72,11 @@
 </div>
 
 <br/>
+
+<!-- ============ CLOSING ============ -->
+<div align="center">
+  <img src="./assets/closing.svg" width="100%" alt="Always building. Always simulating. Find Fairuz Faiyaz on GitHub and LinkedIn." />
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=100&section=footer"/>
