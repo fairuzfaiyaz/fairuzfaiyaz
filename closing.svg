@@ -1,5 +1,5 @@
 <svg viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Always building. Always simulating. Find Fairuz Faiyaz on GitHub and LinkedIn. This profile compiles daily.">
-  <desc>Animated closing card: a typed line reveals with a blinking cursor, and the connect chips have a gentle pulsing border. All text is static and readable on the first frame.</desc>
+  <desc>Animated closing card: a typed line reveals with a blinking cursor and stays fully visible, briefly retyping on a loop; the connect chips have a gentle pulsing border. All text is static and readable on the first frame.</desc>
   <defs>
     <pattern id="c_grid" width="32" height="32" patternUnits="userSpaceOnUse">
       <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#ffffff" stroke-opacity="0.06" stroke-width="1"/>
@@ -13,29 +13,25 @@
       <stop offset="100%" stop-color="#67e8f9"/>
     </linearGradient>
     <clipPath id="c_typeClip">
-      <rect x="0" y="0" width="0" height="60">
-        <animate attributeName="width" values="0;700;700;0" keyTimes="0;0.35;0.85;1" dur="7s" repeatCount="indefinite" calcMode="spline" keySplines="0.3 0 0.2 1;0 0 1 1;0.3 0 0.2 1"/>
+      <rect x="0" y="-40" width="0" height="56">
+        <animate attributeName="width" values="0;700;700;0;0" keyTimes="0;0.12;0.97;0.985;1" dur="7s" repeatCount="indefinite" calcMode="spline" keySplines="0.3 0 0.2 1;0 0 1 1;0.3 0 0.2 1;0 0 1 1"/>
       </rect>
     </clipPath>
   </defs>
-
   <rect width="1200" height="260" fill="#0b0e14"/>
   <rect width="1200" height="260" fill="url(#c_grid)"/>
   <rect width="1200" height="260" fill="url(#c_glow)"/>
-
   <g transform="translate(250,58)">
     <text font-family="Inter, 'Segoe UI', Arial, Helvetica, system-ui, sans-serif" font-size="34" font-weight="800" fill="#2a3040">Always building. Always simulating.</text>
     <g clip-path="url(#c_typeClip)">
       <text font-family="Inter, 'Segoe UI', Arial, Helvetica, system-ui, sans-serif" font-size="34" font-weight="800" fill="#e9edf3">Always building. Always simulating.</text>
     </g>
-    <rect x="0" y="-26" width="3" height="34" fill="#67e8f9">
-      <animate attributeName="x" values="0;700;700;0" keyTimes="0;0.35;0.85;1" dur="7s" repeatCount="indefinite" calcMode="spline" keySplines="0.3 0 0.2 1;0 0 1 1;0.3 0 0.2 1"/>
+    <rect x="0" y="-30" width="3" height="38" fill="#67e8f9">
+      <animate attributeName="x" values="0;700;700;0;0" keyTimes="0;0.12;0.97;0.985;1" dur="7s" repeatCount="indefinite" calcMode="spline" keySplines="0.3 0 0.2 1;0 0 1 1;0.3 0 0.2 1;0 0 1 1"/>
       <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/>
     </rect>
   </g>
-
   <text x="600" y="112" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#71717a">this profile compiles daily — thanks for stopping by</text>
-
   <!-- connect chips -->
   <g font-family="Inter, 'Segoe UI', Arial, Helvetica, system-ui, sans-serif" font-size="14" font-weight="700" text-anchor="middle">
     <g transform="translate(370,146)">
