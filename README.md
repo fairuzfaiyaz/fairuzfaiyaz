@@ -39,7 +39,7 @@
 <h2 align="center">💻 Simulation & Logic Projects</h2>
 
 <div align="center">
-  <img src="./assets/systems.svg" width="100%" alt="Four simulation systems: TurfSync scheduling engine, Embassy Line Sim queueing simulation, Hospital Resource Sim priority triage, UniTracker data persistence." />
+  <img src="./systems.svg" width="100%" alt="Four simulation systems: TurfSync scheduling engine, Embassy Line Sim queueing simulation, Hospital Resource Sim priority triage, UniTracker data persistence." />
 </div>
 
 <p align="center">
