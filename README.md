@@ -12,7 +12,7 @@
 
 <!-- ============ ANIMATED HERO BANNER ============ -->
 <div align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Fairuz Faiyaz — system simulation engineer. Core C++, memory management, discrete-event simulation, concurrency." />
+  <img src="./hero.svg" width="100%" alt="Fairuz Faiyaz — system simulation engineer. Core C++, memory management, discrete-event simulation, concurrency." />
 </div>
 
 <br/>
