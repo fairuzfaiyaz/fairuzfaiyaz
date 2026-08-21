@@ -1,0 +1,72 @@
+<svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Academic journey. American International University-Bangladesh, B.Sc. in Computer Science and Engineering, status in progress. Curriculum timeline: foundations, data structures and OOP, systems and simulation (current), discrete-event simulation framework next. Core focus: transforming abstract mathematical models into optimized, high-performance C++ code.">
+  <desc>Animated timeline: a pulse glows on the current milestone and gently breathes; the status badge blinks. All text is static and readable on the first frame.</desc>
+  <defs>
+    <pattern id="ac_grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#ffffff" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="ac_glow" cx="12%" cy="50%" r="55%">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#004e92" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="ac_prog" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#6366f1"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="#0b0e14"/>
+  <rect width="1200" height="300" fill="url(#ac_grid)"/>
+  <rect width="1200" height="300" fill="url(#ac_glow)"/>
+
+  <text x="60" y="52" font-family="Consolas, 'Courier New', monospace" font-size="12" letter-spacing="2.5" fill="#67e8f9">ACADEMIC JOURNEY</text>
+
+  <!-- graduation cap glyph with pulsing halo -->
+  <g transform="translate(60,74)">
+    <circle cx="20" cy="20" r="26" fill="#22d3ee" opacity="0.10">
+      <animate attributeName="r" values="24;30;24" dur="2.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.08;0.16;0.08" dur="2.6s" repeatCount="indefinite"/>
+    </circle>
+    <path d="M2 16 L20 8 L38 16 L20 24 Z" fill="#67e8f9"/>
+    <path d="M11 20 L11 29 C11 32 29 32 29 29 L29 20" fill="none" stroke="#67e8f9" stroke-width="2"/>
+    <line x1="34" y1="17" x2="34" y2="28" stroke="#67e8f9" stroke-width="2"/>
+  </g>
+
+  <text x="118" y="88" font-family="Inter, 'Segoe UI', Arial, Helvetica, system-ui, sans-serif" font-size="21" font-weight="800" fill="#e9edf3">American International University-Bangladesh</text>
+  <text x="118" y="114" font-family="Inter, 'Segoe UI', Arial, Helvetica, system-ui, sans-serif" font-size="15" fill="#a1a1aa">B.Sc. in Computer Science &amp; Engineering</text>
+
+  <g transform="translate(118, 128)">
+    <rect width="110" height="24" rx="12" fill="#161b22" stroke="#fdcb6e" stroke-opacity="0.6"/>
+    <circle cx="16" cy="12" r="3.4" fill="#fdcb6e">
+      <animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
+    <text x="27" y="16" font-family="Consolas, monospace" font-size="10.5" letter-spacing="1" font-weight="700" fill="#fdcb6e">IN PROGRESS</text>
+  </g>
+
+  <!-- timeline -->
+  <g>
+    <line x1="90" y1="216" x2="1110" y2="216" stroke="#232b38" stroke-width="3"/>
+    <line x1="90" y1="216" x2="760" y2="216" stroke="url(#ac_prog)" stroke-width="3"/>
+
+    <!-- node 1 -->
+    <circle cx="90" cy="216" r="7" fill="#22d3ee"/>
+    <text x="90" y="246" text-anchor="middle" font-family="Consolas, monospace" font-size="11.5" fill="#c9d1d9">Foundations</text>
+
+    <!-- node 2 -->
+    <circle cx="430" cy="216" r="7" fill="#22d3ee"/>
+    <text x="430" y="246" text-anchor="middle" font-family="Consolas, monospace" font-size="11.5" fill="#c9d1d9">Data Structures &amp; OOP</text>
+
+    <!-- node 3 (current) -->
+    <circle cx="760" cy="216" r="14" fill="#22d3ee" opacity="0.18">
+      <animate attributeName="r" values="12;18;12" dur="2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.22;0.05;0.22" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="760" cy="216" r="8" fill="#67e8f9"/>
+    <text x="760" y="246" text-anchor="middle" font-family="Consolas, monospace" font-size="12" font-weight="700" fill="#67e8f9">Systems &amp; Simulation ★</text>
+
+    <!-- node 4 (next) -->
+    <circle cx="1110" cy="216" r="7" fill="#161b22" stroke="#71717a" stroke-width="2"/>
+    <text x="1110" y="246" text-anchor="middle" font-family="Consolas, monospace" font-size="11.5" fill="#71717a">DES Framework — next</text>
+  </g>
+
+  <text x="600" y="284" text-anchor="middle" font-family="Inter, 'Segoe UI', Arial, Helvetica, system-ui, sans-serif" font-size="13" fill="#a1a1aa">Core focus: transforming abstract mathematical models into optimized, high-performance C++ code.</text>
+</svg>

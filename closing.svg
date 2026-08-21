@@ -1,0 +1,56 @@
+<svg viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Always building. Always simulating. Find Fairuz Faiyaz on GitHub and LinkedIn. This profile compiles daily.">
+  <desc>Animated closing card: a typed line reveals with a blinking cursor and stays fully visible, briefly retyping on a loop; the connect chips have a gentle pulsing border. All text is static and readable on the first frame.</desc>
+  <defs>
+    <pattern id="c_grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#ffffff" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="c_glow" cx="50%" cy="0%" r="70%">
+      <stop offset="0%" stop-color="#6366f1" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#004e92" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="c_brandFill" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#67e8f9"/>
+    </linearGradient>
+    <clipPath id="c_typeClip">
+      <rect x="0" y="-40" width="0" height="56">
+        <animate attributeName="width" values="0;700;700;0;0" keyTimes="0;0.12;0.97;0.985;1" dur="7s" repeatCount="indefinite" calcMode="spline" keySplines="0.3 0 0.2 1;0 0 1 1;0.3 0 0.2 1;0 0 1 1"/>
+      </rect>
+    </clipPath>
+  </defs>
+  <rect width="1200" height="260" fill="#0b0e14"/>
+  <rect width="1200" height="260" fill="url(#c_grid)"/>
+  <rect width="1200" height="260" fill="url(#c_glow)"/>
+  <g transform="translate(250,58)">
+    <text font-family="Inter, 'Segoe UI', Arial, Helvetica, system-ui, sans-serif" font-size="34" font-weight="800" fill="#2a3040">Always building. Always simulating.</text>
+    <g clip-path="url(#c_typeClip)">
+      <text font-family="Inter, 'Segoe UI', Arial, Helvetica, system-ui, sans-serif" font-size="34" font-weight="800" fill="#e9edf3">Always building. Always simulating.</text>
+    </g>
+    <rect x="0" y="-30" width="3" height="38" fill="#67e8f9">
+      <animate attributeName="x" values="0;700;700;0;0" keyTimes="0;0.12;0.97;0.985;1" dur="7s" repeatCount="indefinite" calcMode="spline" keySplines="0.3 0 0.2 1;0 0 1 1;0.3 0 0.2 1;0 0 1 1"/>
+      <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <text x="600" y="112" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#71717a">this profile compiles daily — thanks for stopping by</text>
+  <!-- connect chips -->
+  <g font-family="Inter, 'Segoe UI', Arial, Helvetica, system-ui, sans-serif" font-size="14" font-weight="700" text-anchor="middle">
+    <g transform="translate(370,146)">
+      <rect width="180" height="46" rx="23" fill="#161b22" stroke="#67e8f9" stroke-width="1.5" stroke-opacity="0.5">
+        <animate attributeName="stroke-opacity" values="0.35;0.85;0.35" dur="2.4s" repeatCount="indefinite"/>
+      </rect>
+      <text x="90" y="29" fill="#e9edf3">🐙 GitHub</text>
+    </g>
+    <g transform="translate(570,146)">
+      <rect width="180" height="46" rx="23" fill="#161b22" stroke="#a78bfa" stroke-width="1.5" stroke-opacity="0.5">
+        <animate attributeName="stroke-opacity" values="0.35;0.85;0.35" dur="2.4s" begin="0.6s" repeatCount="indefinite"/>
+      </rect>
+      <text x="90" y="29" fill="#e9edf3">in LinkedIn</text>
+    </g>
+    <g transform="translate(770,146)">
+      <rect width="200" height="46" rx="23" fill="url(#c_brandFill)" stroke="#22d3ee" stroke-width="1.5" stroke-opacity="0.7">
+        <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="2.4s" begin="1.2s" repeatCount="indefinite"/>
+      </rect>
+      <text x="100" y="29" fill="#0b0e14">Let's connect →</text>
+    </g>
+  </g>
+</svg>

@@ -55,6 +55,11 @@
 ---
 
 <h2 align="center">🛠️ Technical Arsenal</h2>
+
+<div align="center">
+  <img src="./arsenal.svg" width="100%" alt="Languages: C++, C#, Java, MySQL. Tools & Workflow: Git, GitHub, VS Code, Visual Studio. Platforms & Docs: Windows, PowerShell, Markdown." />
+</div>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,cs,java,mysql,pr,git,github,vscode,visualstudio,md,windows,powershell&perline=6" />
@@ -63,6 +68,9 @@
 
 ---
 
+---
+
+<!-- ============ PROJECTS ============ -->
 <h2 align="center">💻 Simulation & Logic Projects</h2>
 
 <table align="center">
@@ -152,6 +160,11 @@
 </div>
 
 <br/>
+
+<!-- ============ CLOSING ============ -->
+<div align="center">
+  <img src="./closing.svg" width="100%" alt="Always building. Always simulating. Find Fairuz Faiyaz on GitHub and LinkedIn." />
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=100&section=footer"/>
